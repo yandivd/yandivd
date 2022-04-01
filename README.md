@@ -42,37 +42,37 @@
 ## Connect with me  
 <div align="center">
 <a href="mailto:erielmejias99@gmail.com">
-<img alt="Gmail" width="26px" src="https://github.com/erielmejias99/erielmejias99/blob/master/asset/Gmail.svg" />
+<img alt="Gmail" width="26px" src="https://github.com/yandivd/yandivd/blob/master/asset/Gmail.svg" />
 </a>
-<a href="https://www.linkedin.com/in/erielmejias99/" target="_blank">
+<a href="https://www.linkedin.com/in/yandivd/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://github.com/erielmejias99" target="_blank">
+<a href="https://github.com/yandivd" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/ErielMejias" target="_blank">
+<a href="https://twitter.com/YandiVargas1" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://stackoverflow.com/users/10601367/eriel-mejias" target="_blank">
+<a href="https://stackoverflow.com/users/10601367/yandi-vargas" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.instagram.com/erielmejias/" target="_blank">
+<a href="https://www.instagram.com/yandivd99/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 </div>
 
 <!--
 <a href="https://twitter.com/<username>" target="_blank">
-  <img align="left" alt="Linkedin" width="24px" src="https://github.com/erielmejias99/erielmejias99/blob/master/assets/Twitter.svg" />
+  <img align="left" alt="Linkedin" width="24px" src="https://github.com/yandivd/yandivd/blob/master/assets/Twitter.svg" />
 </a>
 -->
-<!-- <a href="mailto:erielmejias99@gmail.com" target="_blank">
-  <img alt="Gmail" width="26px" src="https://github.com/erielmejias99/erielmejias99/blob/master/asset/Gmail.svg" />
+<!-- <a href="mailto:yandivd@gmail.com" target="_blank">
+  <img alt="Gmail" width="26px" src="https://github.com/yandivd/yandivd/blob/master/asset/Gmail.svg" />
 </a>
  -->
 <div align="center">
-<img src="https://img.shields.io/github/followers/erielmejias99.svg?style=social&label=Follow"></img>
+<img src="https://img.shields.io/github/followers/yandivd.svg?style=social&label=Follow"></img>
 
-<img src="https://gpvc.arturio.dev/erielmejias99"></img>
+<img src="https://gpvc.arturio.dev/yandivd"></img>
 </div>
