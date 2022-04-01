@@ -32,16 +32,16 @@
 </p> 
 
 <!--
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=erielmejias99&show_icons=true&count_private=true&hide=stars,issues,contribs)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yandivd&show_icons=true&count_private=true&hide=stars,issues,contribs)
 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erielmejias99&layout=compact&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yandivd&layout=compact&langs_count=6)
 
-<!-- <img src="https://github-profile-trophy.vercel.app/?username=erielmejias99&column=1" alt="erielmejias99" /> -->
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=yandivd&column=1" alt="yandivd" /> -->
 
 ## Connect with me  
 <div align="center">
-<a href="mailto:erielmejias99@gmail.com">
+<a href="mailto:yandivd@gmail.com">
 <img alt="Gmail" width="26px" src="https://github.com/yandivd/yandivd/blob/master/asset/Gmail.svg" />
 </a>
 <a href="https://www.linkedin.com/in/yandivd/" target="_blank">
