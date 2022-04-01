@@ -17,7 +17,7 @@
 <br />
 <br />
 
-<!---<img  src="https://raw.githubusercontent.com/yandivd/yandivd/master/javascript.gif" />--->
+<!---<img  src="https://github.com/yandivd/yandivd/blob/main/javascript.gif" />--->
 
 ### Donde me puedes encontrar
 
