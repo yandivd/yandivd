@@ -39,18 +39,17 @@
 <a href="https://github.com/yandivd" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/ArandaLivan" target="_blank">
+<a href="https://twitter.com/yandivd_" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.instagram.com/yandivd99/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 </div>
-<!--
 **yandivd/yandivd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fyandivd">
-  <img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fyandivd">
-  <img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=blue&logo=adfasf&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fyandivd">
+<img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FLivanAranda">
+  <img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FLivanAranda">
+  <img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=blue&logo=adfasf&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FLivanAranda">
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -61,4 +60,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
