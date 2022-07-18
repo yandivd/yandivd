@@ -20,7 +20,7 @@
  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
- <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-blue?&style=for-the-badge&logo=typescript&logoColor=white" />
+ <!---<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-blue?&style=for-the-badge&logo=typescript&logoColor=white" />--->
  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
  <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> 
  <img alt="Django" src="https://img.shields.io/badge/-Django-green?style=for-the-badge&logo=django" /> 
@@ -48,9 +48,9 @@
 </div>
 <!--
 **yandivd/yandivd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FArandaLivan">
-  <img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FArandaLivan">
-  <img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=blue&logo=adfasf&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FArandaLivan">
+<img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fyandivd">
+  <img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fyandivd">
+  <img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=blue&logo=adfasf&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fyandivd">
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
