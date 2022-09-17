@@ -27,6 +27,7 @@
  <img alt="Unity" src="https://img.shields.io/badge/Unity-5E5856?style=for-the-badge&logo=unity&logoColor=white" /> 
  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-347A13?style=for-the-badge&logo=postgresql&logoColor=white" /> 
  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-13137A?style=for-the-badge&logo=mysql&logoColor=white" /> 
+ <img alt="Heroku" src="https://img.shields.io/badge/heroku-29A23D?style=for-the-badge&logo=heroku&logoColor=white" /> 
   
     
 </p>
