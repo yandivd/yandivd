@@ -28,7 +28,7 @@
  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-347A13?style=for-the-badge&logo=postgresql&logoColor=white" /> 
  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-13137A?style=for-the-badge&logo=mysql&logoColor=white" /> 
  <img alt="Heroku" src="https://img.shields.io/badge/heroku-29A23D?style=for-the-badge&logo=heroku&logoColor=white" /> 
-  
+ <img alt="PHP" src="https://img.shields.io/badge/php-blue?style=for-the-badge&logo=php&logoColor=white" />  
     
 </p>
 
