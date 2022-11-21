@@ -1,6 +1,6 @@
 
 
-<h2>𝑰 ❤️ Back-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!</h2> 
+<h2>Yandi Vargas</h2> 
 
 <h4>🍬Favorite Language: <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=flat-square&logo=python&logoColor=white"/></h4> 
 
