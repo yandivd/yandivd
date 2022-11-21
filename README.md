@@ -35,9 +35,6 @@
  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-13137A?style=for-the-badge&logo=mysql&logoColor=white" /> 
  <img alt="Heroku" src="https://img.shields.io/badge/heroku-29A23D?style=for-the-badge&logo=heroku&logoColor=white" /> 
  <img alt="PHP" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />  
-    
-</p>
-<p>
  <img alt="PostMan" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
 </p>
 
