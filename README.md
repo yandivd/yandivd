@@ -4,7 +4,7 @@
 
 ---
 <p align="center">
- Languages & Technologies
+ SO
 </p>
 <p align="center">
  <img alt="Linux Mint" src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white"/>
