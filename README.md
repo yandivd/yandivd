@@ -35,6 +35,7 @@
 <p align="center">
  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-347A13?style=for-the-badge&logo=postgresql&logoColor=white" /> 
  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-13137A?style=for-the-badge&logo=mysql&logoColor=white" /> 
+ 	<img src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
 
  <p align="center">
