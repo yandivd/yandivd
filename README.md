@@ -35,6 +35,9 @@
  <img alt="PostMan" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
  <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
+<p>
+ <img src="https://img.shields.io/badge/celery-%2337814A.svg?&style=for-the-badge&logo=celery&logoColor=white" />
+</p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yandivd&hide=contribs,prs)
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yandivd&layout=compact&langs_count=6)
