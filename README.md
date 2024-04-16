@@ -59,7 +59,6 @@
 </p>
 <p align="center">
  <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
- <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yandivd&hide=contribs,prs)
