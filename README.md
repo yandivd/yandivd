@@ -1,5 +1,5 @@
-Yandi Vargas Domínguez
-Desarrollador Full Stack & DevOps
+# Yandi Vargas Domínguez
+## Desarrollador Full Stack & DevOps
 🖥️ Tecnologías y Habilidades
 Sistemas Operativos
 <p align="center"> <img alt="Linux Mint" src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white"/> <img alt="Manjaro" src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white"/> <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> <img alt="Kali Linux" src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white"/> <img alt="Debian" src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white"/> </p>
